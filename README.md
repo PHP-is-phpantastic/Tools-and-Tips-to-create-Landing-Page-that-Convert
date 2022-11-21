@@ -30,8 +30,28 @@ information hierarchy is very important.
 1. Optimize your buy box for conversion.  <br>
 2. Add customer testimonials and a review section.  <br>
 3. Take great product photos.    <br>
+
+
+
+
+
+
 4. Expand on your product descriptions.  <br>
 5. Include certifications and unique selling propositions.   <br>
 6. Upsell/cross-sell section.   <br>
 7. Brag bar and a why section.   <br>
 8. Use your landing pages to create a narrative.   <br>
+
+#### Samples:
+![Email collection landing page](https://user-images.githubusercontent.com/79042824/203112690-51ba31f9-e155-4166-ba4c-210434294daf.png)
+![email collection landing page 2](https://user-images.githubusercontent.com/79042824/203112753-0940d337-a190-42d7-9c9f-5ccebe36d86c.png)
+
+
+![3 desktop](https://user-images.githubusercontent.com/79042824/203113131-9731e297-121a-4576-be8a-6bd920765cdd.jpg)
+![3](https://user-images.githubusercontent.com/79042824/203113147-21016b2f-d0f6-44ea-93cf-439b55bbb443.jpg)
+
+
+![2](https://user-images.githubusercontent.com/79042824/203113186-9157418e-4c15-4b35-848d-0a745c4fc256.jpg)
+![2 mobile](https://user-images.githubusercontent.com/79042824/203113205-d2618a90-3f74-44f7-81a9-cc05dd7f1d02.jpg)
+
+
