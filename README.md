@@ -1,4 +1,4 @@
-# Tools and Tips to create Landing Page that Convert
+# Tools and Tips to create Landing Pages that Convert
  
  #### The money you put into paid advertising is useless if you’re sending great traffic to bad landing pages.
  
@@ -27,7 +27,7 @@ information hierarchy is very important.
 
 ### Tips:
 
-1.Optimize your buy box for conversion.  <br>
+1. Optimize your buy box for conversion.  <br>
 2. Add customer testimonials and a review section.  <br>
 3. Take great product photos.    <br>
 4. Expand on your product descriptions.  <br>
