@@ -42,6 +42,10 @@ information hierarchy is very important.
 7. Brag bar and a why section.   <br>
 8. Use your landing pages to create a narrative.   <br>
 
+#### Elements to create an effective landing page:
+![asset1-1](https://user-images.githubusercontent.com/79042824/204817677-6cba8769-b84e-4639-8a4d-ec5f300aaab7.png)
+
+
 #### Samples:
 ![Email collection landing page](https://user-images.githubusercontent.com/79042824/203112690-51ba31f9-e155-4166-ba4c-210434294daf.png)
 ![email collection landing page 2](https://user-images.githubusercontent.com/79042824/203112753-0940d337-a190-42d7-9c9f-5ccebe36d86c.png)
